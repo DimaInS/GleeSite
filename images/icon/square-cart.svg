@@ -1,0 +1,24 @@
+<svg id="Группа_1" data-name="Группа 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="153" height="153" viewBox="0 0 153 153">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a3bbc8;
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+    <filter id="filter" x="0" y="0" width="153" height="153" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="6" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="7.071"/>
+      <feFlood result="flood" flood-color="#252525" flood-opacity="0.05"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="BG" class="cls-1" x="51" y="45" width="50" height="50"/>
+  <path id="Forma_1" data-name="Forma 1" class="cls-2" d="M1119.81,1325.63h2.34l3.32,12.04a0.816,0.816,0,0,0,.79.59h10.21a0.827,0.827,0,0,0,.75-0.48l3.71-8.56a0.829,0.829,0,0,0-.06-0.78,0.819,0.819,0,0,0-.68-0.37H1128.9a0.82,0.82,0,0,0,0,1.64h10.04l-3.01,6.92h-9.06l-3.33-12.03a0.8,0.8,0,0,0-.78-0.6h-2.95A0.815,0.815,0,0,0,1119.81,1325.63Zm5.67,18.37a1.85,1.85,0,1,0-1.84-1.85A1.852,1.852,0,0,0,1125.48,1344Zm11.53,0h0.14a1.867,1.867,0,0,0,1.71-1.99A1.845,1.845,0,1,0,1137.01,1344Z" transform="translate(-1054 -1264)"/>
+</svg>
